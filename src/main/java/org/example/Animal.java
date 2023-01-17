@@ -16,11 +16,10 @@ public class Animal {
     public static void main(String[] args) {
 
 
-        Animal cat = new Animal(6);
-        Animal dog = new Animal(101);
+        Animal cat = new Animal(625);
+        Animal dog = new Animal(1550);
 
 
-        System.out.println(cat == dog);
 
     }
 
