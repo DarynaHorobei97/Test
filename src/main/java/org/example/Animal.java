@@ -16,7 +16,9 @@ public class Animal {
     public static void main(String[] args) {
 
 
+
         Animal cat = new Animal(12);
+
         Animal dog = new Animal(10);
 
 
