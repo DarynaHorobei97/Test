@@ -17,7 +17,7 @@ public class Animal {
 
 
         Animal cat = new Animal(6);
-        Animal dog = new Animal(10);
+        Animal dog = new Animal(101);
 
 
         System.out.println(cat == dog);
